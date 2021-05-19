@@ -9,6 +9,7 @@ Download a .pbf file from www.geofabrik.de or some other sources and rename it i
 
 The Tile Server is running on Port 3000
 - http://localhost:3000
+
 The Nominatim Service is running on Port 5432 and mainly on 8080
  
 
