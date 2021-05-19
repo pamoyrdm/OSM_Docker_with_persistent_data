@@ -7,4 +7,9 @@ Download a .pbf file from www.geofabrik.de or some other sources and rename it i
 - To delete docker-compose down
 - To stop or start -> docker-compose stop or start
 
-Runs on normal Hardware but need a lot of RAM and for example Austria needs around 30GiB of Drivespace
+The Tile Server is running on Port 3000
+- http://localhost:3000
+The Nominatim Service is running on Port 5432 and mainly on 8080
+ 
+
+All Services runs on normal Hardware but need a lot of RAM and for example Austria needs around 30GiB of Drivespace
