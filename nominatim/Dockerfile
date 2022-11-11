@@ -1,6 +1,6 @@
 ARG nominatim_version=3.5.2
 
-FROM ubuntu:xenial as builder
+FROM ubuntu:lastest as builder
 
 ARG nominatim_version
 
